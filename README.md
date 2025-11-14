@@ -17,7 +17,8 @@ S.No	Name of the Apparatus	Range	Quantity
 
 CIRCUIT DIAGRAM:
 
-![Uploading WhatsApp Image 2025-11-14 at 13.50.01_9e530d36.jpg…]()
+![WhatsApp Image 2025-11-14 at 13 50 01_9e530d36](https://github.com/user-attachments/assets/6979d2bf-4b2e-4278-aaf9-41e22445b5b6)
+
 
 
 
