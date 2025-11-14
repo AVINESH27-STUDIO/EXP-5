@@ -17,7 +17,8 @@ S.No	Name of the Apparatus	Range	Quantity
 
 CIRCUIT DIAGRAM:
 
-<img width="696" height="314" alt="Screenshot 2025-11-13 090839" src="https://github.com/user-attachments/assets/7b018600-d63a-4645-a5cd-06419fb5f557" />
+![Uploading WhatsApp Image 2025-11-14 at 13.50.01_9e530d36.jpg…]()
+
 
 
 THEORY:
